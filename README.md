@@ -1,18 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Academic and personal projects using Python and web technologies<br>Improving my portfolio and technical documentation practices<br>Building interfaces and experimenting with product-oriented development<br><br>👯 I’m looking to collaborate on<br>Web development projects<br>UX/UI and digital product initiatives<br>Student and open-source projects<br><br>🌱 I’m currently learning<br>Python development and Frontend development (HTML, CSS, JavaScript)<br>UX/UI workflows and usability principles<br>Version control and collaborative development<br><br>💬 Ask me about<br>Python projects<br>UX/UI process (wireframes, mockups, prototyping)<br>Building simple digital solutions<br><br>⚡ Fun fact<br>I enjoy understanding how systems work from idea and design to implementation and user experience.
+# Diego Alberto Aquino Chaccara
 
+**Estudiante de Ingeniería de Sistemas de Información | UPC**  
+**Desarrollo de software · Análisis de datos · Soluciones empresariales**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hY5nMHtcQC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego_achr27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alberto-aquino-chaccara-70136039a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Diego_achr27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@diegoachr27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegoachr27@gmail.com) 
+Soy estudiante de 6.º ciclo de Ingeniería de Sistemas de Información en la **Universidad Peruana de Ciencias Aplicadas (UPC)**. Desarrollo proyectos académicos y personales orientados a la programación, bases de datos, análisis de información y mejora de procesos.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dalqt-27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Dalqt-27&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dalqt-27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Me interesa iniciar mi experiencia profesional mediante **prácticas preprofesionales** en desarrollo de software, datos y analítica o consultoría de tecnologías de información. En mis repositorios documento las tecnologías utilizadas, las funcionalidades implementadas y los pasos necesarios para reproducir cada proyecto.
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+| --- | --- | --- |
+| [ProductísticoPE](https://github.com/Dalqt-27/productistico-pe-analytics) | Aplicación grupal para explorar datos agrícolas, calcular estadísticas y visualizar relaciones entre variables. Incluye regresión lineal exploratoria. | Python, Streamlit, pandas, Matplotlib, scikit-learn |
+| [Gestión de Alquileres](https://github.com/Dalqt-27/gestion-alquileres) | Aplicación personal de escritorio para registrar alquileres de equipos, controlar disponibilidad, devoluciones y reportes. | C#, Windows Forms, Entity Framework, SQL Server |
+| [NexusIT](https://github.com/Dalqt-27/NexusIT) | Sistema académico grupal de mesa de ayuda, seguimiento de tickets, gestión de usuarios y técnicos, indicadores y auditoría. | C#, .NET Framework, Windows Forms, Entity Framework, SQL Server |
+
+> Los proyectos académicos grupales identifican a sus integrantes y documentan su alcance en los README correspondientes.
+
+## Herramientas y conocimientos
+
+- **Programación y desarrollo:** Python, C#, SQL, Java, HTML y CSS.
+- **Datos:** SQL Server, PostgreSQL, pandas, Matplotlib, scikit-learn, Excel y Power BI.
+- **Aplicaciones y herramientas:** .NET Framework, Entity Framework, Streamlit, Git, GitHub, Visual Studio y VS Code.
+- **Diseño y trabajo en equipo:** Figma, fundamentos de UX/UI y Scrum.
+
+Mis repositorios muestran distintas etapas de aprendizaje; no todas estas herramientas se utilizan en todos los proyectos publicados.
+
+## Formación e intereses
+
+- **Universidad Peruana de Ciencias Aplicadas (UPC):** Ingeniería de Sistemas de Información, 6.º ciclo.
+- Interés en análisis de datos, desarrollo de aplicaciones, sistemas empresariales y diseño de productos digitales.
+- Formación complementaria en Power BI, diseño UX/UI y gestión de productos digitales.
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/diego-alberto-aquino-chaccara-70136039a/)
+- [Correo electrónico](mailto:diegoachr27@gmail.com)
+- [Mis repositorios en GitHub](https://github.com/Dalqt-27?tab=repositories)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dalqt-27&icon=1&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Portafolio en desarrollo. Cada proyecto cuenta con documentación específica, requisitos e instrucciones de ejecución.*
